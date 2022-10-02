@@ -1,0 +1,88 @@
+open 
+google
+close google
+youtube
+close youtube
+notepad
+close notepad
+explorer
+close explorer
+wordpad
+close wordpad
+Settings
+close settings
+word
+close word
+weather
+close weather
+Brave
+close brave
+command prompt
+close command prompt
+office
+close office
+Instagram
+close instagram
+Maps
+close maps
+gmail
+close gmail
+PowerPoint
+close PowerPoint
+Skype
+close skype
+Zoom
+close zoom
+facebook
+close facebook
+drive
+close drive
+flipkart
+close filpkart
+amazon
+close amazon
+webwhatsapp
+close webwhatsapp
+close
+paint
+close paint
+udemy
+close udemy
+cursa
+close cursa
+photos
+close photos
+excel
+close excel
+access
+close access
+myaccountgoogle
+close myaccountgoogle
+controlpanel
+close controlpanel
+adobe
+close adobe
+edge
+close edge
+onenote
+close onenote
+outlook
+close outlook
+publisher
+close publisher
+player
+close player
+math
+close math
+recorder
+close recorder
+taskmanager
+close taskmanager
+shutdown
+restart
+nhce
+close site
+intro
+close intro
+complier
+close complier
